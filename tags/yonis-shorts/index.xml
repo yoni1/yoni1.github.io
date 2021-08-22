@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Yoni&#39;s Shorts</title>
+    <title>yoni&#39;s shorts on Yoni&#39;s Shorts</title>
     <link>https://shorts.yonispants.com/tags/yonis-shorts/</link>
-    <description>Recent content on Yoni&#39;s Shorts</description>
+    <description>Recent content in yoni&#39;s shorts on Yoni&#39;s Shorts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 22 Aug 2021 22:08:12 +0300</lastBuildDate>
@@ -129,11 +129,11 @@
         
           
             
-              <category>Hugo</category>
+              <category>yoni&#39;s shorts</category>
             
           
             
-              <category>Yoni&#39;s Shorts</category>
+              <category>hugo</category>
             
           
         
@@ -182,11 +182,11 @@
         
           
             
-              <category>Yoni&#39;s Shorts</category>
+              <category>yoni&#39;s shorts</category>
             
           
             
-              <category>Hugo</category>
+              <category>hugo</category>
             
           
         

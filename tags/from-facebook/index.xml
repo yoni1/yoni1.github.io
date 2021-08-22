@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>from facebook on Yoni&#39;s Shorts</title>
+    <link>https://shorts.yonispants.com/tags/from-facebook/</link>
+    <description>Recent content in from facebook on Yoni&#39;s Shorts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Aug 2021 23:36:22 +0300</lastBuildDate>
+    
+        <atom:link href="https://shorts.yonispants.com/tags/from-facebook/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>A Poem About My Thesis</title>
+        <link>https://shorts.yonispants.com/a-poem-about-my-thesis/</link>
+        <pubDate>Sun, 22 Aug 2021 23:36:22 +0300</pubDate>
+        
+        <atom:modified>Sun, 22 Aug 2021 23:36:22 +0300</atom:modified>
+        <guid>https://shorts.yonispants.com/a-poem-about-my-thesis/</guid>
+        <description> </description>
+        <content:encoded>&lt;p&gt;In the Facebook group &lt;em&gt;Mathematical Mathematics Memes&lt;/em&gt;, someone &lt;a href=&#34;https://www.facebook.com/groups/1567682496877142/posts/2882359472076098&#34;&gt;posted&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tell me your area of specialization by writing a poem containing what you studied.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the past, I&amp;rsquo;ve tried and failed to come up with a succint summary of my thesis for &lt;a href=&#34;https://lolmythesis.com/&#34;&gt;lol my thesis&lt;/a&gt;. But my poem seemed to be popular:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Roses are red&lt;br /&gt;
+Violets are blue&lt;br /&gt;
+A random eigenfunction of the Laplacian on the flat torus of dimension $d$ with eigenvalue $\lambda$ asymptotically has an expected value of $O(\lambda^d)$ nodal domains as $\lambda$ tends to infinity with exponentially concentrated probability distribution&lt;br /&gt;
+And so do you&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://shorts.yonispants.com/images/content/fb-thesis-poem.png&#34; style=&#34;width: 50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Note - the poem is not mathematically accurate, but it is close enough for all practical purposes.&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Yoni</dc:creator>
+        <media:content url="https://shorts.yonispants.comimages/content/fb-thesis-poem.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>my thesis</category>
+            
+          
+            
+              <category>from facebook</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
