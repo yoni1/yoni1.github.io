@@ -11,7 +11,6 @@
     <description>Recent content on Yoni&#39;s Shorts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Aug 2021 23:36:22 +0300</lastBuildDate>
     
         <atom:link href="https://shorts.yonispants.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -43,7 +42,7 @@
         <link>https://shorts.yonispants.com/posts/a-poem-about-my-thesis/</link>
         <pubDate>Sun, 22 Aug 2021 23:36:22 +0300</pubDate>
         
-        <atom:modified>Sun, 22 Aug 2021 23:36:22 +0300</atom:modified>
+        <atom:modified>Mon, 23 Aug 2021 11:47:16 +0300</atom:modified>
         <guid>https://shorts.yonispants.com/posts/a-poem-about-my-thesis/</guid>
         <description> </description>
         <content:encoded>&lt;p&gt;In the Facebook group &lt;em&gt;Mathematical Mathematics Memes&lt;/em&gt;, someone &lt;a href=&#34;https://www.facebook.com/groups/1567682496877142/posts/2882359472076098&#34;&gt;posted&lt;/a&gt;:&lt;/p&gt;
@@ -57,7 +56,7 @@ Violets are blue&lt;br /&gt;
 A random eigenfunction of the Laplacian on the flat torus of dimension $d$ with eigenvalue $\lambda$ asymptotically has an expected value of $O(\lambda^d)$ nodal domains as $\lambda$ tends to infinity with exponentially concentrated probability distribution&lt;br /&gt;
 And so do you&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;poem.png&#34; style=&#34;width: 50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;poem.png&#34; style=&#34;width: 50%;&#34; title=&#34;Poem&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Note - the poem is not mathematically accurate, but it is close enough for all practical purposes.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Yoni</dc:creator>
@@ -90,7 +89,7 @@ And so do you&lt;/p&gt;
         <link>https://shorts.yonispants.com/posts/how-to-build-this-blog/</link>
         <pubDate>Sun, 22 Aug 2021 22:08:12 +0300</pubDate>
         
-        <atom:modified>Sun, 22 Aug 2021 22:08:12 +0300</atom:modified>
+        <atom:modified>Mon, 23 Aug 2021 10:03:40 +0300</atom:modified>
         <guid>https://shorts.yonispants.com/posts/how-to-build-this-blog/</guid>
         <description>How I built this blog using Hugo.</description>
         <content:encoded>&lt;p&gt;For this blog, I chose &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. The reason I chose Hugo is that &lt;a href=&#34;https://www.mrnice.dev/&#34;&gt;that&amp;rsquo;s what Shay Nehmad is using&lt;/a&gt;. 🤷&lt;/p&gt;
@@ -220,7 +219,7 @@ And so do you&lt;/p&gt;
         <link>https://shorts.yonispants.com/posts/hello/</link>
         <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
         
-        <atom:modified>Sat, 21 Aug 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Mon, 23 Aug 2021 10:03:40 +0300</atom:modified>
         <guid>https://shorts.yonispants.com/posts/hello/</guid>
         <description>Hello, world. Starting a new blog today!</description>
         <content:encoded>&lt;p&gt;Hello, world. Starting a new blog today!&lt;/p&gt;
