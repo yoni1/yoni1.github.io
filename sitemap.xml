@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shorts.yonispants.com/posts/a-poem-about-my-thesis/</loc>
-    <lastmod>2021-08-23T11:47:16+03:00</lastmod>
+    <loc>https://shorts.yonispants.com/tags/c/</loc>
+    <lastmod>2021-09-03T11:42:49+03:00</lastmod>
   </url><url>
     <loc>https://shorts.yonispants.com/categories/</loc>
+    <lastmod>2021-09-03T11:42:49+03:00</lastmod>
+  </url><url>
+    <loc>https://shorts.yonispants.com/posts/comment-toggle-in-c/</loc>
+    <lastmod>2021-09-03T11:42:49+03:00</lastmod>
+  </url><url>
+    <loc>https://shorts.yonispants.com/categories/programming/</loc>
+    <lastmod>2021-09-03T11:42:49+03:00</lastmod>
+  </url><url>
+    <loc>https://shorts.yonispants.com/tags/</loc>
+    <lastmod>2021-09-03T11:42:49+03:00</lastmod>
+  </url><url>
+    <loc>https://shorts.yonispants.com/posts/a-poem-about-my-thesis/</loc>
     <lastmod>2021-08-23T11:47:16+03:00</lastmod>
   </url><url>
     <loc>https://shorts.yonispants.com/tags/from-facebook/</loc>
@@ -15,9 +27,6 @@
     <lastmod>2021-08-23T11:47:16+03:00</lastmod>
   </url><url>
     <loc>https://shorts.yonispants.com/tags/my-thesis/</loc>
-    <lastmod>2021-08-23T11:47:16+03:00</lastmod>
-  </url><url>
-    <loc>https://shorts.yonispants.com/tags/</loc>
     <lastmod>2021-08-23T11:47:16+03:00</lastmod>
   </url><url>
     <loc>https://shorts.yonispants.com/categories/blogging/</loc>
@@ -46,5 +55,7 @@
   </url><url>
     <loc>https://shorts.yonispants.com/archive/</loc>
     <lastmod>2021-08-11T00:48:29+03:00</lastmod>
+  </url><url>
+    <loc>https://shorts.yonispants.com/series/</loc>
   </url>
 </urlset>
