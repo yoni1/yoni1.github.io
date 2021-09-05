@@ -316,6 +316,78 @@ And so do you&lt;/p&gt;
         
       </item>
       
+      <item>
+        <title>מאמר שהתפרסם בשבוע שעבר...</title>
+        <link>https://shorts.yonispants.com/posts/an-article-from-last-week/</link>
+        <pubDate>Mon, 04 Sep 2017 10:50:00 +0300</pubDate>
+        
+        <atom:modified>Sun, 05 Sep 2021 10:57:35 +0300</atom:modified>
+        <guid>https://shorts.yonispants.com/posts/an-article-from-last-week/</guid>
+        <description> </description>
+        <content:encoded>&lt;p&gt;&lt;em&gt;[פוסט זה התפרסם במקור &lt;a href=&#34;https://www.facebook.com/yoniyoni/posts/10155658295499289&#34;&gt;בפייסבוק&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jair.org/index.php/jair/article/view/11079/26262&#34;&gt;מאמר שהתפרסם בשבוע שעבר&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: &amp;ldquo;אנו מוכיחים שוריאציה מסויימת של בעיית המלכות על לוח שחמט בגודל $n \times n$ היא NP-שלמה&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://news.st-andrews.ac.uk/archive/simple-chess-puzzle-holds-key-to-1m-prize/&#34;&gt;הודעת האוניברסיטה לתקשורת&lt;/a&gt;: &amp;ldquo;קיים פרס של מיליון דולר ממכון קליי בארה&amp;quot;ב על בעיית P שונה מ-NP, ולכן מי שיכול להוכיח שבעיית המלכות ניתנת או לא ניתנת לפתרון יעיל, יזכה בפרס.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ynet.co.il/articles/0,7340,L-5011552,00.html&#34;&gt;כתבה ב-ynet&lt;/a&gt;: &amp;ldquo;מדענים באוניברסיטת סנט אנדרוז שבסקוטלנד הציבו אתגר בפני טובי המתכנתים: גלו פתרון לחידת שחמט &amp;ldquo;פשוטה&amp;rdquo; – וזכו במיליון דולר. החידה דורשת מהשחקן למקם בלוח שחמט רגיל ($8 \times 8$) שמונה מלכות, כך שאף מלכה לא מאיימת על האחרת.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;יד, ברוכה הבאה לפרצוף.&lt;/p&gt;
+&lt;p&gt;(הערה: האשמה היא של הודעת האוניברסיטה לתקשורת כמעט באותה רמה כמו שהיא של ynet)&lt;/p&gt;
+&lt;script&gt;
+    // Convert footnote to LTR
+    document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+        var fn = document.getElementById(&#39;fn:1&#39;);
+        for (var i = 0; i &lt; fn.childNodes.length; i++)
+        {
+            if (fn.childNodes[i].tagName == &#39;P&#39;)
+            {
+                var p = fn.childNodes[i];
+                p.dir = &#39;ltr&#39;;
+                p.style[&#39;textAlign&#39;] = &#39;left&#39;;
+                break;
+            }
+        }
+    });
+&lt;/script&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Gent, Ian P., Christopher Jefferson, and Peter Nightingale. &amp;ldquo;Complexity of n-Queens Completion.&amp;rdquo; &lt;em&gt;Journal of Artificial Intelligence Research&lt;/em&gt; 59 (2017): 815-848.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content:encoded>
+        <dc:creator>Yoni</dc:creator>
+        <media:content url="https://shorts.yonispants.comimages/openmoji/1F926-1F3FB-200D-2642-FE0F.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>from facebook</category>
+            
+          
+            
+              <category>the media is stupid</category>
+            
+          
+            
+              <category>ynet</category>
+            
+          
+            
+              <category>בעברית</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+      </item>
+      
 
     
   </channel>
