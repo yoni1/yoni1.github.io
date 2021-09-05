@@ -268,7 +268,7 @@ And so do you&lt;/p&gt;
         <link>https://shorts.yonispants.com/posts/hello/</link>
         <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
         
-        <atom:modified>Mon, 23 Aug 2021 10:03:40 +0300</atom:modified>
+        <atom:modified>Sun, 05 Sep 2021 11:11:21 +0300</atom:modified>
         <guid>https://shorts.yonispants.com/posts/hello/</guid>
         <description>Hello, world. Starting a new blog today!</description>
         <content:encoded>&lt;p&gt;Hello, world. Starting a new blog today!&lt;/p&gt;
@@ -281,12 +281,12 @@ And so do you&lt;/p&gt;
 &lt;h1 id=&#34;what-blog&#34;&gt;What blog?&lt;/h1&gt;
 &lt;p&gt;I plan on posting:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Math stuff.&lt;/li&gt;
-&lt;li&gt;Programming &amp;amp; technology stuff.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shorts.yonispants.com/categories/math/&#34;&gt;Math stuff&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shorts.yonispants.com/categories/programming/&#34;&gt;Programming &amp;amp; technology stuff&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Projects and stuff.&lt;/li&gt;
-&lt;li&gt;Stuff I&amp;rsquo;ll copy from my past posts on Facebook.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shorts.yonispants.com/tags/from-facebook/&#34;&gt;Stuff I&amp;rsquo;ll copy from my past posts on Facebook&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Arbitrarily, some posts will be in English, and some in Hebrew.&lt;/p&gt;
+&lt;p&gt;Arbitrarily, some posts will be in English, and some &lt;a href=&#34;https://shorts.yonispants.com/tags/%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/&#34;&gt;in Hebrew&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-blog&#34;&gt;How blog?&lt;/h1&gt;
 &lt;p&gt;For this blog, I chose &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. The reason I chose Hugo is that &lt;a href=&#34;https://www.mrnice.dev/&#34;&gt;that&amp;rsquo;s what Shay Nehmad is using&lt;/a&gt;. 🤷&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll write more about it in my &lt;a href=&#34;https://shorts.yonispants.com/posts/how-to-build-this-blog/&#34;&gt;next post&lt;/a&gt;.&lt;/p&gt;
