@@ -38,6 +38,57 @@
 
       
       <item>
+        <title>Code Review לציוץ של צה&#34;ל</title>
+        <link>https://shorts.yonispants.com/posts/idf-tweet-cr/</link>
+        <pubDate>Tue, 14 Sep 2021 09:27:00 +0300</pubDate>
+        
+        <atom:modified>Tue, 14 Sep 2021 10:16:18 +0300</atom:modified>
+        <guid>https://shorts.yonispants.com/posts/idf-tweet-cr/</guid>
+        <description> </description>
+        <content:encoded>&lt;p&gt;&lt;em&gt;[פוסט זה התפרסם במקור &lt;a href=&#34;https://www.facebook.com/yoniyoni/posts/10159736224524289&#34;&gt;בפייסבוק&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;יאללה, code review &lt;a href=&#34;https://twitter.com/IDF/status/1437433437439369217&#34;&gt;לציוץ של צה&amp;quot;ל&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;idf-tweet.png&#34; alt=&#34;הציוץ&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;בשורה 1 רצוי שה-&lt;code&gt;if&lt;/code&gt; יהיה &lt;code&gt;while&lt;/code&gt; כדי שהתגובה תקרה תמיד ולא רק במתקפה הראשונה.&lt;/li&gt;
+&lt;li&gt;בשורות 3-5 עדיף להשתמש ב-consts במקום במחרוזות קסם בגוף הקוד.&lt;/li&gt;
+&lt;li&gt;בשורות 3-5 עדיף להחליף את הקוד בקוד יותר גנרי שיאפשר לתמוך בעוד מתקפות בעתיד בלי צורך לשנות את הקוד ולקמפל מחדש.&lt;/li&gt;
+&lt;li&gt;זה לא &amp;ldquo;פיצוח של הקוד&amp;rdquo; אלא פשוט חשיפת הקוד אם כביכול זה הקוד שצה&amp;quot;ל מריץ ואתם צה&amp;quot;ל.&lt;/li&gt;
+&lt;li&gt;נראה שהקוד כתוב בסי-שארפ שהיא שפה שרצה ברוב המקרים על Windows ולעיתים רחוקות מאוד על גנרלים צבאיים ולכן רוב הסיכויים שסי-שארפ אינה השפה המתאימה ביותר למשימה.&lt;/li&gt;
+&lt;li&gt;הקונפליקט הישראלי-פלסטיני די מסובך וככל הנראה לא ניתן לייצג אותו בצורה נאמנה באמצעות 12 שורות קוד.&lt;/li&gt;
+&lt;li&gt;יתר על כן, יתכן שאם אתם צבא מאורגן של מדינה מסודרת אז להתבדח עם בדיחת קוד גרועה על קונפליקט שבו אנשים פאקינג מתים במשך שנים לצורך איסוף לייקים בטוויטר זה איפשהו בין מביך למחליא.&lt;/li&gt;
+&lt;li&gt;שימוש באופרטור &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; במקום &lt;code&gt;||&lt;/code&gt; בשורות 3-4.&lt;/li&gt;
+&lt;/ol&gt;
+</content:encoded>
+        <dc:creator>Yoni</dc:creator>
+        <media:content url="https://shorts.yonispants.composts/idf-tweet-cr/idf-tweet.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>from facebook</category>
+            
+          
+            
+              <category>the media is stupid</category>
+            
+          
+            
+              <category>בעברית</category>
+            
+          
+        
+        
+          
+            
+              <category>Politics</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Comment toggle in C</title>
         <link>https://shorts.yonispants.com/posts/comment-toggle-in-c/</link>
         <pubDate>Fri, 03 Sep 2021 11:40:00 +0300</pubDate>
