@@ -1305,7 +1305,7 @@
 <meta name="keywords" content="from facebook,low level,networks,prime numbers,algorithms,Guardicore,בעברית">
 
 <meta name="created" content="2020-09-16T09:34:00&#43;0300">
-<meta name="modified" content="2021-09-18T16:46:21&#43;0300">
+<meta name="modified" content="2021-09-18T17:00:31&#43;0300">
 <meta property="article:published_time" content="2020-09-16T09:34:00&#43;0300">
 
 <meta name="author" content="Yoni">
@@ -1363,7 +1363,7 @@
     "@type": "WebPage",
     "headline": "קצת על חישוב אורך תחילית subnet",
     "datePublished": "2020-09-16T09:34:00+03:00",
-    "dateModified": "2021-09-18T16:46:21+03:00",
+    "dateModified": "2021-09-18T17:00:31+03:00",
     "url" : "https://shorts.yonispants.com/posts/subnet-mask-prefix-length/",
     "description": "על מסיכות, רשתות, ביטים, מעבדים, אלגוריתמים, טבלאות hash, טעימה מתורת החבורות, מספרים ראשוניים, בעיות לא פתורות במתמטיקה, והצעת עבודה בצוות שלי.",
     "keywords": ["from facebook","low level","networks","prime numbers","algorithms","Guardicore","בעברית"],
@@ -1533,7 +1533,7 @@
             
             
 
-<main class="single__main main">
+<main class="single__main main-main">
   
   
   <div class="single ">
@@ -2276,12 +2276,55 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
+<aside class="single__side main-side">
+  
+
+
+<section class="sidebar hide">
+  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
+  <div class="toc__flexbox" data-position="fixed">
+    <h6 class="toc__title" data-ani="false">What&#39;s on this Page</h6>
+    
+      <label class="switch" data-ani="false">
+        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
+        <span class="slider round"></span>
+      </label>
+    
+  </div>
+  <div class="toc " data-dir="rtl" data-folding="true" data-ani="false">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#בזמן-שחושבות---נצא-לפרסומות">בזמן שחושבות - נצא לפרסומות</a></li>
+        <li><a href="#ונחזור-לשידורינו">ונחזור לשידורינו</a></li>
+        <li><a href="#מה-לעזאזל">מה לעזאזל?</a></li>
+        <li><a href="#מבוא-מזורז-למתמטיקה-הרלוונטית">מבוא מזורז למתמטיקה הרלוונטית</a>
+          <ul>
+            <li><a href="#דוגמה-ראשונה---האם-2-הוא-שורש-פרימיטיבי-מודולו-5">דוגמה ראשונה - האם 2 הוא שורש פרימיטיבי מודולו 5?</a></li>
+            <li><a href="#דוגמה-שנייה---האם-2-הוא-שורש-פרימיטיבי-מודולו-7">דוגמה שנייה - האם 2 הוא שורש פרימיטיבי מודולו 7?</a></li>
+            <li><a href="#דוגמה-שלישית---האם-3-הוא-שורש-פרימיטיבי-מודולו-7">דוגמה שלישית - האם 3 הוא שורש פרימיטיבי מודולו 7?</a></li>
+          </ul>
+        </li>
+        <li><a href="#איך-מגיעים-מכאן-למה-שרצינו">איך מגיעים מכאן למה שרצינו?</a></li>
+        <li><a href="#אפשר-לחפור-עוד-קצת-ולהגיע-לבעיה-לא-פתורה-במתמטיקה">אפשר לחפור עוד קצת ולהגיע לבעיה לא פתורה במתמטיקה?</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</section>
+
+
+
+</aside>
+
 <script>
   
   
   
 
-  var enableToc = JSON.parse("false");
+  var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
   var tocPosition = JSON.parse("\"inner\"");
   
@@ -2436,7 +2479,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     
     
-    var enableToc = JSON.parse("false");
+    var enableToc = JSON.parse("true");
     var toc = JSON.parse("null");
     var hideToc = JSON.parse("false");
     var tocFlexbox = document.querySelector('.toc__flexbox');
