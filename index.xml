@@ -372,7 +372,7 @@ And so do you&lt;/p&gt;
         <link>https://shorts.yonispants.com/posts/subnet-mask-prefix-length/</link>
         <pubDate>Wed, 16 Sep 2020 09:34:00 +0300</pubDate>
         
-        <atom:modified>Sat, 18 Sep 2021 17:20:44 +0300</atom:modified>
+        <atom:modified>Sun, 19 Sep 2021 14:06:24 +0300</atom:modified>
         <guid>https://shorts.yonispants.com/posts/subnet-mask-prefix-length/</guid>
         <description>על מסיכות, רשתות, ביטים, מעבדים, אלגוריתמים, טבלאות hash, טעימה מתורת החבורות, מספרים ראשוניים, בעיות לא פתורות במתמטיקה, והצעת עבודה בצוות שלי.</description>
         <content:encoded>&lt;p&gt;&lt;em&gt;[פוסט זה התפרסם במקור &lt;a href=&#34;https://www.facebook.com/yoniyoni/posts/10158817977344289&#34;&gt;בפייסבוק&lt;/a&gt; ואחר כך &lt;a href=&#34;https://www.linkedin.com/pulse/%25D7%25A2%25D7%259C-%25D7%259E%25D7%25A1%25D7%2599%25D7%259B%25D7%2595%25D7%25AA-%25D7%25A8%25D7%25A9%25D7%25AA%25D7%2595%25D7%25AA-%25D7%2591%25D7%2599%25D7%2598%25D7%2599%25D7%259D-%25D7%259E%25D7%25A2%25D7%2591%25D7%2593%25D7%2599%25D7%259D-%25D7%2590%25D7%259C%25D7%2592%25D7%2595%25D7%25A8%25D7%2599%25D7%25AA%25D7%259E%25D7%2599%25D7%259D-%25D7%2598%25D7%2591%25D7%259C%25D7%2590%25D7%2595%25D7%25AA-hash-%25D7%2598%25D7%25A2%25D7%2599%25D7%259E%25D7%2594-rozenshein/&#34;&gt;בלינקדאין&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
@@ -495,7 +495,7 @@ $$
 &lt;p dir=ltr&gt;
 $$m = c - q$$
 &lt;/p&gt;
-&lt;p&gt;כאשר $c$ הוא קבוע אבסולוטי (&lt;span dir=ltr&gt;$c=2^{32}$&lt;/span&gt;), ו-$q$ הוא חזקה כלשהי של $2$ בין $0$ ל-&lt;span dir=ltr&gt;$2^{32}$&lt;/span&gt;.&lt;br /&gt;
+&lt;p&gt;כאשר $c$ הוא קבוע אבסולוטי (&lt;span dir=ltr&gt;$c=2^{32}$&lt;/span&gt;), ו-$q$ הוא חזקה כלשהי של $2$ בין &lt;span dir=ltr&gt;$2^0$&lt;/span&gt; ל-&lt;span dir=ltr&gt;$2^{32}$&lt;/span&gt;.&lt;br /&gt;
 לכן המשוואה הזו מתקיימת גם באופן מודולרי:&lt;/p&gt;
 &lt;p dir=ltr&gt;
 $$m \thinspace\operatorname{mod}\thinspace 37 = (c - q) \thinspace\operatorname{mod}\thinspace 37$$
