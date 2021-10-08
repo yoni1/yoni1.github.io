@@ -552,7 +552,7 @@ $$
         <link>https://shorts.yonispants.com/posts/subnet-mask-prefix-length/</link>
         <pubDate>Wed, 16 Sep 2020 09:34:00 +0300</pubDate>
         
-        <atom:modified>Sun, 19 Sep 2021 14:06:24 +0300</atom:modified>
+        <atom:modified>Thu, 30 Sep 2021 21:01:12 +0300</atom:modified>
         <guid>https://shorts.yonispants.com/posts/subnet-mask-prefix-length/</guid>
         <description>על מסיכות, רשתות, ביטים, מעבדים, אלגוריתמים, טבלאות hash, טעימה מתורת החבורות, מספרים ראשוניים, בעיות לא פתורות במתמטיקה, והצעת עבודה בצוות שלי.</description>
         <content:encoded>&lt;p&gt;&lt;em&gt;[פוסט זה התפרסם במקור &lt;a href=&#34;https://www.facebook.com/yoniyoni/posts/10158817977344289&#34;&gt;בפייסבוק&lt;/a&gt; ואחר כך &lt;a href=&#34;https://www.linkedin.com/pulse/%25D7%25A2%25D7%259C-%25D7%259E%25D7%25A1%25D7%2599%25D7%259B%25D7%2595%25D7%25AA-%25D7%25A8%25D7%25A9%25D7%25AA%25D7%2595%25D7%25AA-%25D7%2591%25D7%2599%25D7%2598%25D7%2599%25D7%259D-%25D7%259E%25D7%25A2%25D7%2591%25D7%2593%25D7%2599%25D7%259D-%25D7%2590%25D7%259C%25D7%2592%25D7%2595%25D7%25A8%25D7%2599%25D7%25AA%25D7%259E%25D7%2599%25D7%259D-%25D7%2598%25D7%2591%25D7%259C%25D7%2590%25D7%2595%25D7%25AA-hash-%25D7%2598%25D7%25A2%25D7%2599%25D7%259E%25D7%2594-rozenshein/&#34;&gt;בלינקדאין&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
@@ -726,7 +726,7 @@ $$m \thinspace\operatorname{mod}\thinspace 37 = (c - q) \thinspace\operatorname{
             
           
             
-              <category>Guardicore</category>
+              <category>guardicore</category>
             
           
             
@@ -803,6 +803,106 @@ $$m \thinspace\operatorname{mod}\thinspace 37 = (c - q) \thinspace\operatorname{
           
             
               <category>ynet</category>
+            
+          
+            
+              <category>בעברית</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>יום קירוב פאי שמח! 🎉</title>
+        <link>https://shorts.yonispants.com/posts/pi-approximation-day/</link>
+        <pubDate>Fri, 22 Jul 2016 15:46:00 +0300</pubDate>
+        
+        <atom:modified>Thu, 30 Sep 2021 20:59:02 +0300</atom:modified>
+        <guid>https://shorts.yonispants.com/posts/pi-approximation-day/</guid>
+        <description>מדוע השבר 22/7 כל כך קרוב לפאי?</description>
+        <content:encoded>&lt;p&gt;&lt;em&gt;[פוסט זה התפרסם במקור &lt;a href=&#34;https://www.facebook.com/yoniyoni/posts/10154325438234289&#34;&gt;בפייסבוק&lt;/a&gt; וגם בגרסה מקוצרת &lt;a href=&#34;https://www.facebook.com/sniptheweb/photos/a.1625433251026411/1789102611326140&#34;&gt;בסניפ&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;יום קירוב פאי שמח! השבר 22/7 הוא קירוב מצויין לפאי. והאמת היא שההסבר המתמטי לזה לא כל כך מסובך, אז בא לי לנסות להסביר אותו. הפוסט עולה בהדרגה ברמת הקושי - שני החלקים הראשונים אמורים להיות קריאים לכולם, והשלישי קצת יותר קשה. מותר לפרוש בכל שלב 🙂&lt;/p&gt;
+&lt;h3 id=&#34;1-מדוע-השבר-227-כל-כך-מדהים&#34;&gt;1. מדוע השבר 22/7 כל כך מדהים?&lt;/h3&gt;
+&lt;p&gt;מתישהו בבית הספר, סיפרו לנו שפאי הוא מספר אי-רציונלי. כלומר, אפשר להתחיל לחשב את הספרות שלו ולקבל &lt;span dir=ltr&gt;3.1415926535&amp;hellip;&lt;/span&gt;, אך המספר ממשיך וממשיך בלי שום מחזוריות או חוקיות נראית לעין בספרות שלו. העובדה הזו גורמת לאנשים מסויימים להנות מהתחביב של שינון מאות ספרות אחרי הנקודה העשרונית (איזה אנשים מוזרים&amp;hellip; אני מסתפק בלזכור רק 26).&lt;/p&gt;
+&lt;p&gt;מאז העת העתיקה, אנשים מתעניינים בקירוב של פאי על ידי שבר (גם אם לא מתוך עניין במספר עצמו, בוודאי שכן מתוך צורך מעשי גיאומטרי). לדוגמה, הרבה אנשים מקרבים את פאי בתור השבר העשרוני 3.14, שהוא בעצם השבר הפשוט 314/100. לעומת הקירוב הזה, יש את הקירוב המפורסם 22/7, שמאמינים שנתגלה במצרים העתיקה. אם כותבים את 22/7 בתור שבר עשרוני, מקבלים שבר מחזורי שמתחיל ב-3.142857 (ואז 6 הספרות אחרי הנקודה חוזרות על עצמן אינסוף פעמים - &lt;a href=&#34;https://www.wolframalpha.com/input/?i=22%2F7&#34;&gt;בדקו בעצמכם במחשבון&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;הקירוב 22/7 הוא קירוב נהדר לפאי. למעשה, אני רוצה לשכנע אתכם שהוא יותר מנהדר. הוא מדהים, פנטסטי, ולא ייאמן!&lt;/p&gt;
+&lt;p&gt;עד כמה הקירוב 22/7 לפאי מדהים?&lt;/p&gt;
+&lt;p&gt;אילו היו שואלים אתכם &amp;ldquo;בן כמה רובין וויליאמס היה אמור להיות היום?&amp;rdquo; והייתם עונים &amp;ldquo;נראה לי שמשהו כמו 65&amp;rdquo; ואז בודקים ומגלים שהוא היה אמור לחגוג 65 אתמול - זה עד כמה הקירוב מדהים.&lt;/p&gt;
+&lt;p&gt;הוא מדהים באותה רמה שבה בשנת 1856, מדדו את אחת הפסגות (&amp;ldquo;פסגה XV&amp;rdquo;) של הר האוורסט, וגילו שהמדידה היא &lt;em&gt;בדיוק&lt;/em&gt; 29,000 רגל; זה היה כל כך מדוייק, שהיה מביך לפרסם את המספר הזה, והוסיפו עוד 2 רגל כדי שאנשים יחשבו שזה לא ניחוש.&lt;/p&gt;
+&lt;p&gt;בדוגמאות האלה, סדר הגודל של השגיאה (ההפרש בין התוצאה המקורבת לבין התוצאה האמיתית) הוא קטן באופן מדהים ביחס למה שהיינו מצפים מקירוב.&lt;/p&gt;
+&lt;p&gt;אוקי, אז למה הקירוב 22/7 הוא כמו הדוגמאות האלה? אז ככה:&lt;/p&gt;
+&lt;p&gt;תחשבו על 22/7 בתור קירוב של פאי על ידי שביעיות. זאת אומרת, לוקחים 22 פעמים את המספר 1/7 והסכום של כל השביעיות האלה הוא בערך פאי.&lt;/p&gt;
+&lt;p&gt;כשמתחילים לחבר שביעיות אנחנו עדיין לא קרובים לפאי, ובאיזשהו שלב, בין השביעית ה-21 לבין השביעית ה-22 אנחנו &amp;ldquo;מדלגים מעל&amp;rdquo; פאי.&lt;/p&gt;
+&lt;p&gt;לכן מאוד סביר ואפשר לנחש שהשגיאה שנקבל תהיה בסדר גודל של 1/14. זאת מפני שאפשר לנחש שפאי נמצא פחות או יותר באמצע הקטע שבין השביעית ה-21 לבין השביעית ה-22, והמרחק בין אמצע הקטע לקצוות הקטע הוא 1/14.&lt;/p&gt;
+&lt;p&gt;אבל מה קורה באמת? האם השגיאה בקירוב 22/7 של פאי היא בערך 1/14? לא! היא יותר קרובה ל-1/800. הרבה יותר קטן מהצפוי.&lt;/p&gt;
+&lt;p&gt;(לשם השוואה, אם היינו מקרבים את פאי על ידי חמישיות (הקירוב 16/5), היינו מצפים לשגיאה בסדר גודל של 1/10, והשגיאה המתקבלת היא בערך 1/17 - די סביר.)&lt;/p&gt;
+&lt;h3 id=&#34;2-איך-קרה-ש-227-הוא-קירוב-כל-כך-טוב-לפאי&#34;&gt;2. איך קרה ש-22/7 הוא קירוב כל כך טוב לפאי?&lt;/h3&gt;
+&lt;p&gt;בואו נסתכל על כמה כפולות של פאי עד 5 ספרות אחרי הנקודה העשרונית:&lt;/p&gt;
+&lt;p dir=ltr&gt;
+    $$
+    \begin{aligned}
+    1\pi &amp; \approx 3.14159 \\
+    2\pi &amp; \approx 6.28318 \\
+    3\pi &amp; \approx 9.42477 \\
+    4\pi &amp; \approx 12.56637 \\
+    5\pi &amp; \approx 15.70796 \\
+    6\pi &amp; \approx 18.84955 \\
+    7\pi &amp; \approx 21.99114 \\
+    8\pi &amp; \approx 25.13274 \\
+    9\pi &amp; \approx 28.27433 \\
+    10\pi &amp; \approx 31.41592
+    \end{aligned}
+    $$
+&lt;/p&gt;
+&lt;p&gt;משהו מאוד מעניין קורה בכפולה &lt;span dir=ltr&gt;$7\pi$&lt;/span&gt;. הכפולה הזו מאוד קרובה ל-22, ולכן 22/7 הוא קירוב מאוד מוצלח.&lt;/p&gt;
+&lt;p&gt;עד כמה הכפולה &lt;span dir=ltr&gt;$7\pi$&lt;/span&gt; קרובה ל-22? ההפרש הוא בערך 0.00886, בערך 1/112.&lt;/p&gt;
+&lt;p&gt;אם נעריך את הכפולה כ-22, אחרי שנחלק את המספר ב-7 ההפרש גם הוא יתחלק ב-7 (כלומר ה-112 יוכפל ב-7), ולכן אנחנו מקבלים שהקירוב 22/7 נותן שגיאה של כ-1/800.&lt;/p&gt;
+&lt;p&gt;זה מביא אותנו להגדרה הבאה:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;הגדרה:&lt;/strong&gt; שבר כלשהו שקרוב לפאי נקרא &amp;ldquo;&lt;strong&gt;קירוב טוב ביותר לפאי&lt;/strong&gt;&amp;rdquo; אם הכפולה של פאי במכנה יותר קרובה למספר שלם מאשר כל כפולה &lt;em&gt;קודמת&lt;/em&gt; של פאי.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;לדוגמה, למעלה אנחנו רואים ש-&lt;span dir=ltr&gt;$7\pi$&lt;/span&gt; יותר קרוב לשלם מאשר כל הכפולות הקודמות (&lt;span dir=ltr&gt;$1\pi, 2\pi, 3\pi, 4\pi, 5\pi, 6\pi$&lt;/span&gt;).&lt;/p&gt;
+&lt;p&gt;אבל כשמסתכלים על הכפולות הבאות (&lt;span dir=ltr&gt;$8\pi, 9\pi, 10\pi$&lt;/span&gt;), רואים שדווקא מתרחקים משלם.&lt;/p&gt;
+&lt;p&gt;אז מתי סוף סוף &amp;ldquo;מנצחים&amp;rdquo; את הכפולה &lt;span dir=ltr&gt;$7\pi$&lt;/span&gt;? מסתבר שצריך להרחיק עד הכפולה &lt;span dir=ltr&gt;$106\pi \approx 333.00882$&lt;/span&gt;, כדי למצוא כפולה שיותר קרובה למספר שלם מאשר &lt;span dir=ltr&gt;$7\pi$&lt;/span&gt;. אכן, השבר 333/106 הוא הקירוב הטוב ביותר הבא של פאי אחרי 22/7.&lt;/p&gt;
+&lt;p&gt;זה לא אומר ש-333/106 הוא השבר &amp;ldquo;הראשון&amp;rdquo; שיותר קרוב לפאי מאשר 22/7: לדוגמה, 179/57 יותר קרוב, אבל גם הוא נותן שגיאה של 1/800 בערך, כמו 22/7.&lt;/p&gt;
+&lt;p&gt;לעומת זאת, השבר 333/106 נותן שגיאה שהיא בערך 1/12000, וקיבלנו תמורה מצויינת למחיר ששילמנו - המספר 106 במכנה.&lt;/p&gt;
+&lt;p&gt;הכפולה הבאה היא &lt;span dir=ltr&gt;$113\pi \approx 354.99996$&lt;/span&gt;, והקירוב הטוב ביותר 355/113 נותן שגיאה שהיא בערך 1/3,750,000. כמעט רבע ממיליונית ויש רק 113 במכנה! מחיר מדהים!&lt;/p&gt;
+&lt;p&gt;אציין כאן שלא צריך לבדוק כפולה-כפולה של פאי כדי למצוא קירובים טובים ביותר - יש שיטה שנקראת &amp;ldquo;&lt;a href=&#34;https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%A8_%D7%9E%D7%A9%D7%95%D7%9C%D7%91&#34;&gt;פיתוח לשברים משולבים&lt;/a&gt;&amp;rdquo;, ולא ארחיב עליה כאן, אבל מומלץ לקרוא את הפוסטים של גדי אלכסנדרוביץ&#39; בנושא (&lt;a href=&#34;https://gadial.net/2010/05/29/continued_fractions_1/&#34;&gt;פוסט ראשון&lt;/a&gt;, &lt;a href=&#34;https://gadial.net/2010/06/04/continued_fractions_1-2/&#34;&gt;פוסט שני&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&#34;3-האם-יש-אינסוף-קירובים-טובים-ביותר-לפאי&#34;&gt;3. האם יש אינסוף קירובים טובים ביותר לפאי?&lt;/h3&gt;
+&lt;p&gt;ראינו שהכפולה &lt;span dir=ltr&gt;$7\pi$&lt;/span&gt; קרובה מאוד למספר שלם, ו-&lt;span dir=ltr&gt;$106\pi$&lt;/span&gt; אפילו יותר קרוב למספר שלם, ו-&lt;span dir=ltr&gt;$113\pi$&lt;/span&gt; אחריו אפילו יותר קרוב.&lt;/p&gt;
+&lt;p&gt;הכפולה הבאה של פאי שיותר קרובה למספר שלם מאשר &lt;span dir=ltr&gt;$113\pi$&lt;/span&gt; היא מאוד רחוקה: צריך להרחיק עד לכפולה &lt;span dir=ltr&gt;$33102\pi$&lt;/span&gt;, השווה בערך ל-103993.000019.&lt;/p&gt;
+&lt;p&gt;זה מביא אותנו לשאלה: האם תמיד נוכל למצוא כפולות יותר ויותר קרובות למספר שלם, או שאולי אפשר לשפר עד רמה מסויימת ומעבר אליה אי אפשר יותר להתקרב למספרים שלמים?&lt;/p&gt;
+&lt;p&gt;בסביבות שנת 1834, המתמטיקאי הגרמני &lt;a href=&#34;https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%94%D7%90%D7%9F_%D7%A4%D7%98%D7%A8_%D7%92%D7%95%D7%A1%D7%98%D7%91_%D7%9C%D7%96%27%D7%9F_%D7%93%D7%99%D7%A8%D7%99%D7%9B%D7%9C%D7%94&#34;&gt;דיריכלה&lt;/a&gt; היה הראשון שהוכיח שהתשובה היא למעשה - כן! אפשר תמיד למצוא כפולה של פאי שיותר קרובה למספר שלם מכל הקודמות. זה אחד המשפטים הבסיסיים ביותר בתחום שנקרא &amp;ldquo;&lt;a href=&#34;https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A8%D7%95%D7%91_%D7%93%D7%99%D7%95%D7%A4%D7%A0%D7%98%D7%99&#34;&gt;קירוב דיופנטי&lt;/a&gt;&amp;rdquo;, המתעסק בקירוב של מספרים אי-רציונליים על ידי שברים.&lt;/p&gt;
+&lt;p&gt;ההוכחה די מגניבה, לא קשה בכלל, והיא היתה כנראה ההוכחה הראשונה בעת המודרנית של המתמטיקה שהשתמשה בעקרון שנקרא &amp;ldquo;&lt;a href=&#34;https://he.wikipedia.org/wiki/%D7%A2%D7%A7%D7%A8%D7%95%D7%9F_%D7%A9%D7%95%D7%91%D7%9A_%D7%94%D7%99%D7%95%D7%A0%D7%99%D7%9D&#34;&gt;עקרון שובך היונים&lt;/a&gt;&amp;rdquo; (הנקרא לפעמים גם &amp;ldquo;עקרון דיריכלה&amp;rdquo;). אנסח כאן את המשפט וההוכחה:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dirichlet%27s_approximation_theorem&#34;&gt;משפט הקירוב הדיופנטי של דיריכלה&lt;/a&gt;.&lt;/strong&gt; לכל &lt;span dir=ltr&gt;$Q&amp;gt;1$&lt;/span&gt; שלם קיים &lt;span dir=ltr&gt;$q&amp;gt;1$&lt;/span&gt; שלם כך שהמרחק בין הכפולה &lt;span dir=ltr&gt;$q\cdot\pi$&lt;/span&gt; למספר השלם הקרוב ביותר קטנה מ-&lt;span dir=ltr&gt;$1/Q$&lt;/span&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;הוכחה.&lt;/strong&gt; נחלק את הקטע &lt;span dir=ltr&gt;$[0, 1]$&lt;/span&gt; ל-$Q$ תתי קטעים בגודל שווה:&lt;/p&gt;
+&lt;p dir=ltr&gt;
+    $$
+    [0, \frac 1 Q],\ \ [\frac 1 Q, \frac 2 Q],\ \ \ldots
+    $$
+&lt;/p&gt;
+&lt;p&gt;נסתכל על קבוצת המספרים &lt;span dir=ltr&gt;0.14159&amp;hellip;&lt;/span&gt;, &lt;span dir=ltr&gt;0.28318&amp;hellip;&lt;/span&gt;, וכן הלאה, כלומר על החלקים השבריים של &lt;span dir=ltr&gt;$\pi$&lt;/span&gt;, &lt;span dir=ltr&gt;$2\pi$&lt;/span&gt;, וכן הלאה, עד &lt;span dir=ltr&gt;$Q\pi$&lt;/span&gt;. נוסיף לקבוצה הזו גם את המספר 0 שהוא החלק השברי של &lt;span dir=ltr&gt;$0\pi$&lt;/span&gt;, וכך נקבל &lt;span dir=ltr&gt;$Q+1$&lt;/span&gt; מספרים בקבוצה.&lt;/p&gt;
+&lt;p&gt;יש &lt;span dir=ltr&gt;$Q+1$&lt;/span&gt; מספרים ב-&lt;span dir=ltr&gt;$[0, 1]$&lt;/span&gt; ו-$Q$ תתי קטעים, ולכן לפי עקרון שובך היונים, יש שני מספרים באותו תת-קטע. כלומר, יש שתי כפולות של פאי שהחלקים השבריים שלהם הם בהפרש של פחות מ-&lt;span dir=ltr&gt;$1/Q$&lt;/span&gt; זה מזה. ההפרש של שתי כפולות פאי האלה גם הוא כפולה של פאי, המקיימת את הנדרש.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;מש&amp;quot;ל. 🙂&lt;/strong&gt;&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Yoni</dc:creator>
+        <media:content url="https://shorts.yonispants.com/posts/pi-approximation-day/pi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>from facebook</category>
             
           
             
